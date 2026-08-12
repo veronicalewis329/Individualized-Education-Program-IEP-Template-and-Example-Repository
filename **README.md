@@ -51,16 +51,12 @@ IEP forms, policies, and state requirements can change over time. A document in 
 
 Where possible, links to original public sources are maintained so users can verify current information.
 
-**Important Note**
-
-This repository is intended for research, educational, and informational purposes. It is not legal advice, special-education advice, or a substitute for current guidance from a school district, state education agency, qualified professional, or applicable law.
-
-The repository is intended to contain only materials that were already publicly available and should not contain private student educational records or personally identifiable student information.
-
-Please review the DISCLAIMER for additional information and source references.
 
 **Project Goal**
 
 The long-term goal is simple:
 
 Make examples of IEP documentation from all 50 states easier to find, compare, study, and use as a foundation for responsible educational research and technology.
+
+Please review the DISCLAIMER for additional information and source references.
+
