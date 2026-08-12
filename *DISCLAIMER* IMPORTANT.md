@@ -11,7 +11,7 @@ https://www.facebook.com/groups/iepeduc/files/files
 
 https://dese.mo.gov/media/pdf/iep-form
 
-https://education.alaska.gov/tls/SPED/docs/SPEDGuidance.docx?utm_source=chatgpt.com
+https://education.alaska.gov/tls/SPED/docs/SPEDGuidance.docx
 
 https://www.azed.gov/sites/default/files/2017/09/AZTAS%20IEP%202017%20FINAL.pdf
 
