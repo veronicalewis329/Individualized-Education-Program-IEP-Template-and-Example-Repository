@@ -1,8 +1,6 @@
 DISCLAIMER
 
-All of the materials in this website have been gathered for research and AI training purposes. 
-I cannot guarantee they completely comply with applicable law. 
-This is a collection of documents that I sourced publicly through my own research.
+Disclaimer: This repository is provided solely for educational, informational, and research purposes. As a result of my research, the materials included here were collected from publicly available sources and are provided as reference examples only. No representation or warranty, express or implied, is made as to the accuracy, completeness, currency, legal sufficiency, or continued applicability of any document contained in this repository. IEP forms, procedures, requirements, and governing laws may change and may vary by state, school district, and individual circumstance. Nothing in this repository constitutes legal, educational, clinical, or professional advice, nor should any material be relied upon as a substitute for current guidance from the applicable state or local education agency, qualified professionals, or legal counsel. Users are responsible for independently verifying the current requirements and permitted use of any material with the original source before relying upon, reproducing, modifying, distributing, or using it for research, AI development, or any other purpose.
 
 List of sources:
 https://www.naset.com/ieps-from-around-the-country/
