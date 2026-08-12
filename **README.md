@@ -2,7 +2,7 @@
 
 **About This Project**
 
-During my internship, I repeatedly ran into the same problem: it was surprisingly difficult to find examples of how IEPs were structured in different states. Forms, terminology, and available resources varied, and the information was often spread across state education websites, school districts, universities, and other public sources.
+During an AI & Behavioral Research Intern, I repeatedly ran into the same problem: it was surprisingly difficult to find examples of how IEPs were structured in different states. Forms, terminology, and available resources varied, and the information was often spread across state education websites, school districts, universities, and other public sources.
 
 I created this repository to bring those materials together in one organized, publicly accessible place.
 
