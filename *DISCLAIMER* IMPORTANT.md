@@ -44,3 +44,14 @@ https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&Rendition=primary&Re
 https://stepp.ecu.edu/wp-content/pv-uploads/sites/315/2020/07/M4L3-Blank-IEP-Form.pdf?utm
 
 https://education.wm.edu/centers/fcec/newhorizons/documents/iepform.pdf?utm
+
+South Carolina - SC Enrich IEP System Resources
+Source: SC Department of Education
+https://ed.sc.gov/districts-schools/special-education-services/oversight-and-assistance-o-a/south-carolina-enrich-iep-system/
+This establishes what the current state IEP system actually is.
+
+South Carolina - Deidentified Actual IEP Example - SCDE Due Process Record
+ Source: SC Department of Education
+https://ed.sc.gov/policy/due-process-public-lookup/files/lj-v-spartanburg-county-school-district-five-sea-decision-redacted-10-12-21-a/
+ This gives you actual South Carolina IEP content from an official, publicly released, redacted record.
+
